@@ -1,0 +1,2 @@
+print("Hello, World!")
+print("identitas");print("nama:regina indah pratiwi");print("umur:16 taun");print("alamat:kp.bojongbubu");print("asal sekolah:SMK PGRI 35 solokanjeruk");print("kelas:10");print("hobi:bernyanyi, menari dan menggambar")
