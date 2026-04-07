@@ -1,0 +1,12 @@
+judul= "Toilet angker sekolah"
+pembuat= "Briyatu"
+nama= "Josua"
+teman1= "Andi"
+teman2= "Iko"
+
+print ("Cerita horor")
+print ("Judul cerita:",judul)
+print ("pembuat cerita fiksi:",pembuat)
+print ("Pada pagi hari",nama,"akan pergi ke sekolah bersama temannya,ia juga bersiap2 untuk pergi ke sekolah,dan sebelum temannya meninggalkannya.")
+print ("Ia pun bergegas keluar dari pintu rumah setelah itu ternyata temannya sudah dari tadi menunggunya temannya ia lah bernama",teman1,"dan",teman2)
+print ("Josua, andi dan iko pun pergi ke sekolah naik sepeda masing2, di")
