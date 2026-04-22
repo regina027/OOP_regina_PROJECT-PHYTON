@@ -1,0 +1,9 @@
+a=6
+b=14
+
+c=~a
+print(c,bin(~a))
+c=b << 1
+print(c,bin(b << 1))
+c=b >> 2
+print(c,bin(b >> 2))
