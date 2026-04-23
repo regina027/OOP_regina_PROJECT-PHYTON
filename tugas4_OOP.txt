@@ -1,0 +1,15 @@
+
+nama =input("masukkan nama:")
+print("", nama)
+
+umur =input("masukkan umur:")
+print("", umur)
+
+no_hp =input("masukkan no_hp:")
+print("", no_hp)
+
+email = input("masukkan email:")
+print("", email)
+
+alamat =input("masukkan alamat:")
+print("", alamat)
