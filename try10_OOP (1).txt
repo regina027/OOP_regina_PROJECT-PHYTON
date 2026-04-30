@@ -1,0 +1,2 @@
+nama = input("regina indah pratiwi")
+print("hallo",nama)

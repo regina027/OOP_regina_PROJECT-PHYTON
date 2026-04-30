@@ -1,0 +1,16 @@
+kbps=int(input("masukan kecepatan(dalam satuan mbps):"))
+
+mbps=kbps/1000
+
+if mbps >50:
+ kategori="sangat cepat"
+elif mbps >=20:
+ kategori="cepat"
+elif mbps >5:
+ kategori="sedang"
+else:
+ kategori="lambat"
+print("kecepatan:",mbps,"Mbps")
+print("kategori:", kategori)
+ 
+ 
