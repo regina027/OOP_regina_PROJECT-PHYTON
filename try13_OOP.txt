@@ -1,0 +1,3 @@
+#contoh FOR mencetak nomor urut praktik siswa dari 1 sampai 5
+for i in range(1,6):
+  print("siswa urutan ke-",i)
